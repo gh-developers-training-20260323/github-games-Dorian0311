@@ -3,6 +3,7 @@
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://gh-developers-training-20260323.github.io/github-games-Dorian0311/
+Änderung
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
